@@ -1,4 +1,4 @@
 import { createConnection } from 'typeorm';
 
-//create a connection
+//create a connection file
 createConnection();
