@@ -8,7 +8,7 @@ let fakeUsersRepository: FakeUsersRepository;
 let fakeHashProvider: FakeHashProvider;
 let createUser: CreateUserService;
 
-//should create a create user specfile to this planner
+//realize yourself fitness
 
 describe('CreateUser', () => {
   beforeEach(() => {
