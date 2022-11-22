@@ -8,7 +8,7 @@ let fakeUsersRepository: FakeUsersRepository;
 let fakeHashProvider: FakeHashProvider;
 let createUser: CreateUserService;
 
-//realize yourself fitness
+
 
 describe('CreateUser', () => {
   beforeEach(() => {
